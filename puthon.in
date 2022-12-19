@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "527685691888",
+    "project_id": "jokker-aga",
+    "storage_bucket": "jokker-aga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527685691888:android:c48f1a11146064df3cd535",
+        "android_client_info": {
+          "package_name": "com.aga.jokker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527685691888-h9univ1jpv7lae2b7eo1m7hehmg2h726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_09a7BxxKXwT4j44SGe2pYu4jvQdUFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527685691888-h9univ1jpv7lae2b7eo1m7hehmg2h726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527685691888:android:09a77d43aa00c5323cd535",
+        "android_client_info": {
+          "package_name": "con.aga.jokker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527685691888-h9univ1jpv7lae2b7eo1m7hehmg2h726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_09a7BxxKXwT4j44SGe2pYu4jvQdUFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527685691888-h9univ1jpv7lae2b7eo1m7hehmg2h726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
